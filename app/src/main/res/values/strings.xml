@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemontree_content_description">Lemon Tree</string>
+    <string name="lemonade_content_description">Glass Of Lemonade</string>
+    <string name="emptyglass_content_description">Empty Glass</string>
+
+
+
+</resources>
